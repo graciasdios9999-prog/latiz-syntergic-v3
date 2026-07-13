@@ -1,0 +1,1 @@
+Full detailed RLS configuration
